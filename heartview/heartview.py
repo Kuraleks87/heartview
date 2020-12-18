@@ -12,3 +12,6 @@ def convert(my_name):
 
     """
     print(f"Тест {my_name}")
+
+
+convert('alexander')
